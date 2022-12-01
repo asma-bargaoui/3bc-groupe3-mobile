@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "278166262210",
+    "project_id": "gestion-de-formation",
+    "storage_bucket": "gestion-de-formation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278166262210:android:0098e2935fb5120db9865b",
+        "android_client_info": {
+          "package_name": "com.example.gestiondestage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278166262210-0l71p3a1prib032mtvqqc1bkmonb3dpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlG4yAm3xxcQjgzI5TEj1MaPqtSTmA-SI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278166262210-0l71p3a1prib032mtvqqc1bkmonb3dpj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
